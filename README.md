@@ -1,0 +1,1 @@
+# scala_practical6_to_10
